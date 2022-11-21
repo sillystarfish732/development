@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.bakeryList {
+  display:flex;
+  justify-content:center;
+  flex-wrap: wrap;
+}
 
 .App-logo {
   height: 40vmin;
