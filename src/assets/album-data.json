@@ -1,0 +1,124 @@
+[
+  {
+    "name": "CAPRISONGS",
+    "artist": "FKA twigs",
+    "tracks": 17,
+    "image": "images/caprisongs.png",
+    "obscure": "trending artist",
+    "nut": "released in 2022"
+  },
+  {
+    "name": "In Rainbows",
+    "artist": "Radiohead",
+    "tracks": 10,
+    "image": "images/inrainbows.png",
+    "obscure": "trending artist",
+    "nut": "released in 2007"
+  },
+  {
+    "name": "\"Awaken, My Love!\"",
+    "artist": "Childish Gambino",
+    "tracks": 11,
+    "image": "images/awaken.png",
+    "obscure": "trending artist",
+    "nut": "released in 2016"
+  },
+  {
+    "name": "Time Skiffs",
+    "artist": "Animal Collective",
+    "tracks": 9,
+    "image": "images/timeskiffs.png",
+    "obscure": "obscure artist",
+    "nut": "released in 2022"
+  },
+  {
+    "name": "I Love You Jennifer B",
+    "artist": "Jockstrap",
+    "tracks": 10,
+    "image": "images/jennifer.png",
+    "obscure": "obscure artist",
+    "nut": "released in 2022"
+  },
+  {
+    "name": "SAWAYAMA",
+    "artist": "Rina Sawayama",
+    "tracks": 13,
+    "image": "images/sawayama.png",
+    "obscure": "trending artist",
+    "nut": "released in 2020"
+  },
+  {
+    "name": "Now",
+    "artist": "Kim Jung Mi",
+    "tracks": 10,
+    "image": "images/now.png",
+    "obscure": "obscure artist",
+    "nut": "released in 1973"
+  },
+  {
+    "name": "Blood",
+    "artist": "Kelsey Lu",
+    "tracks": 13,
+    "image": "images/blood.png",
+    "obscure": "obscure artist",
+    "nut": "released in 2019"
+  },
+  {
+    "name": "Ants From Up There",
+    "artist": "Black Country, New Road",
+    "tracks": 10,
+    "image": "images/ants.png",
+    "obscure": "obscure artist",
+    "nut": "released in 2022"
+  },
+  {
+    "name": "Titanic Rising",
+    "artist": "Weyes Blood",
+    "tracks": 10,
+    "image": "images/titanicrising.png",
+    "obscure": "trending artist",
+    "nut": "released in 2019"
+  },
+  {
+    "name": "Beatopia",
+    "artist": "Beabadoobee",
+    "tracks": 14,
+    "image": "images/beatopia.png",
+    "obscure": "trending artist",
+    "nut": "released in 2022"
+  },
+  {
+    "name": "Parallelograms",
+    "artist": "Linda Perhacs",
+    "tracks": 11,
+    "image": "images/parallelograms.png",
+    "obscure": "obscure artist",
+    "nut": "released in 1970"
+  },
+  {
+    "name": "Hounds of Love",
+    "artist": "Kate Bush",
+    "tracks": 12,
+    "image": "images/hounds.png",
+    "obscure": "trending artist",
+    "nut": "released in 1985"
+  },
+  {
+    "name": "Seen/Unseen",
+    "artist": "Sweet Trip",
+    "tracks": 50,
+    "image": "images/seenunseen.png",
+    "obscure": "obscure artist",
+    "nut": "released in 2022"
+  },
+    {
+    "name": "SMITHEREENS",
+    "artist": "Joji",
+    "tracks": 9,
+    "image": "images/smithereens.png",
+    "obscure": "trending artist",
+    "nut": "released in 2022"
+  }
+
+
+]
