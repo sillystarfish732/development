@@ -10,10 +10,11 @@ is a simple way to sort and filter through albums and add then
 quickly to populate a long megaplaylist.
 
 ### Usability Principles Considered
-To make sure the user can order the playlist with simple button inputs,
-the remove from playlist icon is within the playlist aggregator. The 
-albums are complex, busy, and colorful, so the rest of the program is
-kept simple with clear headings and buttons.
+Since the albums are complex, busy, and colorful, so the rest of the program is
+kept simple with clear headings and buttons. To allow for easing finding
+of new music, a obscure filter (artist who have less
+than 1 million monthly spotify listens) and newly released (albums 
+from 2022) filter are options to filter by. 
 
 ### Organization of Components
 The program is organized into an AlbumsItem component that represents
