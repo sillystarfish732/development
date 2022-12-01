@@ -29,24 +29,24 @@ function App() {
   const sortList = sortType => {
     if (sortType === "alphaAlbum") {
       //console.log("al")
-      setSortedList(albumsData.sort((a, b) => a.name > b.name))
+      setSortedList(albumsData.sort((a, b) => a.name > b.name?1:-1))
       changeSort("alphaAlbum")
       //console.log(sortedList)
     }
     if (sortType === "zAlphaAlbum") {
-      setSortedList(albumsData.sort((a, b) => a.name < b.name))
+      setSortedList(albumsData.sort((a, b) => a.name < b.name?1:-1))
       changeSort("zAlphaAlbum")
     }
 
     if (sortType === "alphaArtist") {
       //console.log("alphaArtist")
-      setSortedList(albumsData.sort((a, b) => a.artist > b.artist))
+      setSortedList(albumsData.sort((a, b) => a.artist > b.artist?1:-1))
       changeSort("alphaArtist")
       //console.log(sortedList)
     }
 
     if (sortType === "zAlphaArtist") {
-      setSortedList(albumsData.sort((a, b) => a.artist < b.artist))
+      setSortedList(albumsData.sort((a, b) => a.artist < b.artist?1:-1))
       changeSort("zAlphaArtist")
     }
   }
