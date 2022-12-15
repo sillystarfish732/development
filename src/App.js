@@ -125,7 +125,7 @@ function App() {
                 (newFilter && !obscureFilter && item.nut === "released in 2022") ||
                 (obscureFilter && !newFilter && item.obscure === "obscure artist") ||
                 (!newFilter && !obscureFilter) ? (
-                  <span style={{ width: "20vw" }}>
+                  <span style={{ width: "20vw", fontFamily: "'Manrope', sans-serif,"  }}>
                     <AlbumsItem nameProp={item} prop2={index} tracksProp={item} artistProp={item}
                       imageProp={item.image} updateCart={addToCart} obscrureProp={item} newProp={item} /></span>
                 ) : (
